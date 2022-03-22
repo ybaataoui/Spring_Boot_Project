@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+F:\Valencia\2022\Spring2022\IT-Capstone\EcommerceProject\.metadata\.plugins\org.eclipse.jdt.core
+3465919275.index
+3016602358.index
+1865797976.index
+2219448542.index
+4283209752.index
+1617987567.index
+2817716128.index
+2374905505.index
+3964827996.index
