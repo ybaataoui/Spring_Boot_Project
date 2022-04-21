@@ -1,0 +1,15 @@
+<!doctype html>
+
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments :: page_head('Internal Server Error - Grp3project', 'none')" />
+<body>
+<div class="containet-fluid">
+	<div th:replace="navigation :: header_menu"></div>
+	<div class="m-3">
+		<h2>Sorry, the server has encountred an error while processing your request.</h2>
+	</div>
+	
+	<div th:replace="navigation :: footer_menu" ></div>
+</div>	
+</body>
+</html>
