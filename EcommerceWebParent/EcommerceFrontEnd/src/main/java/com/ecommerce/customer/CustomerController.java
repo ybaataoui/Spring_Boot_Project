@@ -54,6 +54,7 @@ public class CustomerController {
 		model.addAttribute("pageTitle", "Registration Succeeded!");
 		
 		return "/register/register_success";
+		//https://github.com/ybaataoui/Spring_Boot_Project.git
 	}
 
 	private void sendVerificationEmail(HttpServletRequest request, Customer customer) 
